@@ -17,7 +17,7 @@ These data were posted to the ERS website (at https://www.ers.usda.gov/data-prod
 
 Excel file can be found at: https://docs.google.com/spreadsheets/d/1ZusSU-VH1ig6skbA13sj8_Mq9s0Qy_2H9UEg8dmyhKM/edit#gid=786130352
 
-Cleaned CSV file at: 
+Cleaned CSV file at: https://github.com/EvanWAppel/exploration/blob/master/population_graphic/us_population_data.csv
 
 # Step 3
 
